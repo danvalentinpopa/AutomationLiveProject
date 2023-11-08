@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df2ce918-ac6e-4235-9d8a-ad9eed1fec0a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/registerNewUser_20231031084014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/registerNewUser_20231031084218.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/registerNewUser_20231031090440.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/actions/AccountServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/actions/AuthenticationUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/actions/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/elements/AccountServicesElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/elements/AuthenticationUtilsElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/elements/HomePageElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/apitests/CRUDAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/apitests/InvalidUserRetrievalAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/apitests/ResponseCodeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/apitests/SingleUserAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/apitests/StandaloneAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/apitests/UserPostAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/bdd/TransferFundsBetweenAccounts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/bdd/ViewAccountDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/old/AlertTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/old/BasicSeleniumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/old/CheckboxesTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/old/DoubleClickTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/old/DropDownTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/old/DynamicTableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/old/IFrameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/old/LoaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/old/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/old/NewBrowserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/old/RegisterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/old/ScrollingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/testngtests/RegisterNewUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/APIBaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/BddTestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/ReportManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/ScreenshotUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/WebDriverManagerBDD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/AccountManagement.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testRunnerAPI.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WF0fHQrFQZCAM8V9uwfw1KVonn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/dan.popa/IdeaProjects/TestAutomationLiveProject/src/test/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dan.popa/IdeaProjects/TestAutomationLiveProject/src/test/resources&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dan.popa\IdeaProjects\TestAutomationLiveProject\src\test\resources" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="pages.elements" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tests" />
+      <recent name="tests.WIP" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn --version" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/dan.popa/IdeaProjects/TestAutomationLiveProject/src/test/resources/testRunnerAPI.xml">
+    <configuration name="C:/Users/dan.popa/IdeaProjects/TestAutomationLiveProject/src/test/resources/testRunnerAPI.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestAutomationLiveProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testRunnerAPI.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResponseCodeTest.testDeleteRequestReturn200" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestAutomationLiveProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.apitests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.apitests" />
+      <option name="MAIN_CLASS_NAME" value="tests.apitests.ResponseCodeTest" />
+      <option name="METHOD_NAME" value="testDeleteRequestReturn200" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResponseCodeTest.testNonExistentResourceReturn404" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestAutomationLiveProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.apitests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.apitests" />
+      <option name="MAIN_CLASS_NAME" value="tests.apitests.ResponseCodeTest" />
+      <option name="METHOD_NAME" value="testNonExistentResourceReturn404" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResponseCodeTest.testPostRequestReturn201" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestAutomationLiveProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.apitests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.apitests" />
+      <option name="MAIN_CLASS_NAME" value="tests.apitests.ResponseCodeTest" />
+      <option name="METHOD_NAME" value="testPostRequestReturn201" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResponseCodeTest.testPutRequestReturn200" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestAutomationLiveProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.apitests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.apitests" />
+      <option name="MAIN_CLASS_NAME" value="tests.apitests.ResponseCodeTest" />
+      <option name="METHOD_NAME" value="testPutRequestReturn200" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/dan.popa/IdeaProjects/TestAutomationLiveProject/src/test/resources/testRunnerAPI.xml" />
+        <item itemvalue="TestNG.ResponseCodeTest.testNonExistentResourceReturn404" />
+        <item itemvalue="TestNG.ResponseCodeTest.testDeleteRequestReturn200" />
+        <item itemvalue="TestNG.ResponseCodeTest.testPutRequestReturn200" />
+        <item itemvalue="TestNG.ResponseCodeTest.testPostRequestReturn201" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df2ce918-ac6e-4235-9d8a-ad9eed1fec0a" name="Changes" comment="" />
+      <created>1696313126265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696313126265</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/tests/WIP/DynamicTableTest.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/tests/WIP/PaginationTest.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/tests/old/NewBrowserTest.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/tests/old/NewBrowserTest.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
