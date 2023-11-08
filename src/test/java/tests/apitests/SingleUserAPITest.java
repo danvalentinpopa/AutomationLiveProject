@@ -23,6 +23,7 @@ public class SingleUserAPITest extends APIBaseTest {
         System.out.println(actualFirstName);
 
         Assert.assertEquals(actualFirstName, firstUser, "The name is not as expected");
+        Assert.assertEquals(actualFirstName, firstUser, "The name is not as expected");//conflict
 
     }
 }

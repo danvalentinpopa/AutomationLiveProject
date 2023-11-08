@@ -197,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/dan.popa/IdeaProjects/TestAutomationLiveProject/src/test/resources/testRunnerAPI.xml" />
-        <item itemvalue="TestNG.ResponseCodeTest.testNonExistentResourceReturn404" />
-        <item itemvalue="TestNG.ResponseCodeTest.testDeleteRequestReturn200" />
         <item itemvalue="TestNG.ResponseCodeTest.testPutRequestReturn200" />
         <item itemvalue="TestNG.ResponseCodeTest.testPostRequestReturn201" />
+        <item itemvalue="TestNG.ResponseCodeTest.testNonExistentResourceReturn404" />
+        <item itemvalue="TestNG.ResponseCodeTest.testDeleteRequestReturn200" />
+        <item itemvalue="TestNG.C:/Users/dan.popa/IdeaProjects/TestAutomationLiveProject/src/test/resources/testRunnerAPI.xml" />
       </list>
     </recent_temporary>
   </component>
